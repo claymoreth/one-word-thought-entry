@@ -4,6 +4,6 @@ This is my entry for the "One Word, First Thought" competition on make.fun — a
 
 Competition: https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8
 
-![Competition](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)
-![Rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/claymoreth/one-word-thought-entry/rank.svg)
-![Reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/claymoreth/one-word-thought-entry/reward.svg)
+[![make.fun · u-0xkianno-one-word-first-thought-106abaf8](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/claymoreth/one-word-thought-entry/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/claymoreth/one-word-thought-entry/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
